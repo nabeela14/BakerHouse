@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Biscuit"
+    android:id="@+id/Biscuit">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            android:id="@+id/toolbar"
+            android:title="BISCUITS"
+            android:titleTextColor="#fff"
+            android:background="#6B0505"
+            tools:targetApi="lollipop" />
+
+        <ImageView
+            android:id="@+id/biscuitp"
+            android:layout_below="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/biscuit" />
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/r1"
+            android:layout_marginTop="15dp"
+            android:layout_below="@+id/biscuitp">
+
+            <Button
+                android:id="@+id/sp1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#fff"
+                android:textColor="#000"
+                android:text="ginger biscuits"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/ginger"
+                android:background="#C5BDBD"
+                android:textColor="#000"
+                android:id="@+id/tv1"
+                android:layout_below="@+id/sp1"
+                android:visibility="gone"
+                android:drawableTop="@drawable/ginger"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/r2"
+            android:layout_marginTop="15dp"
+            android:layout_below="@+id/r1">
+
+            <Button
+                android:id="@+id/sp2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#fff"
+                android:textColor="#000"
+                android:text="Jammy biscuits "/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/jam"
+                android:id="@+id/tv2"
+                android:background="#C5BDBD"
+                android:textColor="#000"
+                android:layout_below="@+id/sp2"
+                android:visibility="gone"
+                android:drawableTop="@drawable/jam"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/r3"
+            android:layout_marginTop="15dp"
+            android:layout_below="@+id/r2">
+
+            <Button
+                android:id="@+id/sp3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#fff"
+                android:textColor="#000"
+                android:text="Peanut Butter biscuits "/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/pea"
+                android:id="@+id/tv3"
+                android:background="#C5BDBD"
+                android:textColor="#000"
+                android:layout_below="@+id/sp3"
+                android:visibility="gone"
+                android:drawableTop="@drawable/pea"/>
+        </RelativeLayout>
+
+
+
+
+
+
+
+    </RelativeLayout>
+
+</ScrollView>
+
+
+
+
+

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Cookie"
+    android:id="@+id/Cookie">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            android:id="@+id/toolbar"
+            android:title="COOKIES"
+            android:titleTextColor="#fff"
+            android:background="#6B0505"
+            tools:targetApi="lollipop" />
+
+        <ImageView
+            android:id="@+id/cookiep"
+            android:layout_below="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/cookie" />
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/r1"
+            android:layout_marginTop="15dp"
+            android:layout_below="@+id/cookiep">
+
+            <Button
+                android:id="@+id/sp1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#fff"
+                android:textColor="#000"
+                android:text="dark chocolate cookie"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/dark_cookie"
+                android:background="#C5BDBD"
+                android:textColor="#000"
+                android:id="@+id/tv1"
+                android:layout_below="@+id/sp1"
+                android:visibility="gone"
+                android:drawableTop="@drawable/dark_cookie"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/r2"
+            android:layout_marginTop="15dp"
+            android:layout_below="@+id/r1">
+
+            <Button
+                android:id="@+id/sp2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#fff"
+                android:textColor="#000"
+                android:text="choco coconut cookie "/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/coconut"
+                android:id="@+id/tv2"
+                android:background="#C5BDBD"
+                android:textColor="#000"
+                android:layout_below="@+id/sp2"
+                android:visibility="gone"
+                android:drawableTop="@drawable/coconut"/>
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/r3"
+            android:layout_marginTop="15dp"
+            android:layout_below="@+id/r2">
+
+            <Button
+                android:id="@+id/sp3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#fff"
+                android:textColor="#000"
+                android:text="OAT CHIP Cookie "/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/oat"
+                android:id="@+id/tv3"
+                android:background="#C5BDBD"
+                android:textColor="#000"
+                android:layout_below="@+id/sp3"
+                android:visibility="gone"
+                android:drawableTop="@drawable/oat"/>
+        </RelativeLayout>
+
+
+
+
+
+
+
+    </RelativeLayout>
+
+</ScrollView>
+
+
+
