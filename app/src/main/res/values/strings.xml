@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Baker House</string>
+    <string name="choco_mocha"><b>Ingredients:</b>\n 1.softened butter \n 2.3large eggs \n 3.85g caster sugar \n 4. 70g plain flour \n 5. 1tbsp cornflour \n 6. 2tbsp cocoa \n 7. 1/2tsp baking powder.
+        \n <b>For Icing:</b>\n 25g dark chocolate(chopped),1tbsp strong black coffee ,100g soft cheese, 100g 0% greek yogurt,2tbsp icing sugar.\n<b>Method:</b>\n 1.Heat oven to 180C/160C fan/gas 4. Lightly butter and line the bases of 2 x 18cm sandwich tins with baking paper. Whisk the eggs and sugar until light and fluffy, about 5 mins with a tabletop mixer or 10 mins using an electric hand whisk. The mixture will have increased greatly in volume and be thick enough to leave a trail on the surface when the whisk blades are lifted.\n 2.Sift the flour, cornflour, cocoa and baking powder over the surface and fold in gently using a large metal spoon. Divide between the tins, gently spreading the mixture to the edges, then bake for 15-20 mins until the cakes are well risen, have begun to shrink away from the sides of the tins and spring back when gently pressed. Leave to cool in the tins for 5 mins, then turn out onto a rack.\n 3.To decorate, microwave the chocolate and coffee together on Medium for 20-30 secs until the chocolate has melted. Gently stir until smooth, then cool slightly. Beat the soft cheese with the yogurt and icing sugar until smooth, then spoon half the mixture into a small bowl stir in the melted chocolate and set aside. Place one cake on a serving plate and spread with the yogurt mixture. Cover with the other cake, then spread the chocolate yogurt mixture over the top.\n 4.To finish, microwave the 15g chocolate on Medium for about 20 secs until melted. Stir gently until smooth, then drizzle all over the cake.
+    </string>
+
+    <string name="tutti_frutti">
+        <b>Ingredients:</b>\n 1. 2cups all-purpose flour(maida)\n 2. 1cup tutti frutti. \n 3. 1 1/4th tsp baking powder \n 4.1/2tsp baking soda \n 5. pinch of salt \n 6. 3/4 cup sugar \n 7. 1/2 cup oil or melted butter \n 8. 270 ml milk \n 9. 1 1/4tsp vinegar or lemon juice \n 10.1tbsp vanilla extract.
+        \n<b>Method:</b>\n 1. Grease the cake tray.\n 2. Dust with flour evenly or line a parchment paper.Set this aside.\n 3.Preheat oven at 170C for atleast 20 mins.\n 4.Add tutti frutti to a bowl and sprinkle 1 tbsp flour.\n 5.Coat them well with flour.\n 6. warm the milk and add ,sugar ,vanilla extract and lemon juice or vinegar stir well and set aside. \n 7. Sieve the flour and add baking powder,baking soda and salt to the flour. \n 8. Pour melted butter in to the milk mixture and stir it well Add on the tuuti frutii and mix well \n 9. Add flour gradually to the mixture and mix well to avoid lumps ,batter should be in running consistency.\n 10. Pour the batter in the baking tray and bake for 40 mins.
+    </string>
+
+    <string name="red_velvet">
+        <b>Ingredients:</b>\n 1.Vegetable oil for the pan \n 2. 21/2 cups all-purpose flour\n 3. 1 1/2 cups sugar\n 4. 1 teaspoon baking soda\n 5. 1 teaspoon fine salt\n 6. 1 teaspoon cocoa powder\n 7. 1 1/2 cups vegetable oil\n 8. 1 cup buttermilk, at room temperature\n 9. 2 large eggs, at room temperature\n 10. 2 tablespoons red food coloring (1 ounce)\n 11. 1 teaspoon white distilled vinegar\n 12. 1 teaspoon vanilla extract\n 13. Cream Cheese Frosting, recipe follows \n 14. Crushed pecans, for garnish
+        <!--\n<b>Cream Cheese Frosting:</b>1.1 pound cream cheese, softened 2.4 cups sifted confectioners' sugar 3.2 sticks unsalted butter (1 cup), softened 4.1 teaspoon vanilla extract-->
+    \n<b>Method:</b>\n 1. Preheat the oven to 350 degrees F. Lightly oil and flour three 9 by 1 1/2-inch round cake pans.\n 2. n a large bowl, sift together the flour, sugar, baking soda, salt, and cocoa powder. In another large bowl, whisk together the oil, buttermilk, eggs, food coloring, vinegar, and vanilla.\n 3. Using a standing mixer, mix the dry ingredients into the wet ingredients until just combined and a smooth batter is formed.\n 4. Divide the cake batter evenly among the prepared cake pans. Place the pans in the oven evenly spaced apart. Bake, rotating the pans halfway through the cooking, until the cake pulls away from the side of the pans, and a toothpick inserted in the center of the cakes comes out clean, about 30 minutes.\n 5. Remove the cakes from the oven and run a knife around the edges to loosen them from the sides of the pans. One at a time, invert the cakes onto a plate and then re-invert them onto a cooling rack, rounded-sides up. Let cool completely.\n 6. Frost the cake. Place 1 layer, rounded-side down, in the middle of a rotating cake stand. Using a palette knife or offset spatula spread some of the Cream Cheese Frosting over the top of the cake. (Spread enough frosting to make a 1/4 to 1/2-inch layer.) Carefully set another layer on top, rounded-side down, and repeat. Top with the remaining layer and cover the entire cake with the remaining frosting. Sprinkle the top with the pecans.
+    </string>
+
+
+    <string name = "pineapple">
+        <b>Ingredients:</b>\n 1. 2 cups all-purpose flour \n 2. 2 cups white sugar \n 3. 2 eggs \n 4. 2 teaspoons baking soda \n 5. 1 teaspoon vanilla extract \n 6. 1(20 ounce) can crushed pineapple with juice \n 7. 1 (8 ounce) package cream cheese
+        \n 8. ½ cup butter \n 9. 1 ½ cups confectioners sugar \n 10. 1 teaspoon vanilla extract
+        \n<b>Method:</b>\n 1. Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 baking dish. \n2.In a large bowl, mix together the flour, sugar and baking soda. Make a well in the center and add the eggs, vanilla and crushed pineapple, with liquid from can. Mix well to blend. \n 3.Bake for 45 minutes, or until a toothpick inserted into cake comes out clean. \n 4.To make the frosting: in a medium bowl, combine cream cheese, butter, confectioners sugar and 1 teaspoon of vanilla. Beat until creamy. Spread on warm cake.
+    </string>
+
+<string name="blueberry">
+    <b>Ingredients: \nFOR THE BLUEBERRY PUREE</b> \n 1. 2 cup blueberries \n 2. 2 tbsp. granulated sugar \n 3. 2 tsp. lemon juice
+    \n<b>FOR THE CRUST</b>\n 4. 9 graham crackers, finely crushed (about 1 1/4 c.) \n 5. 6 tbsp. melted butter \n 6. 1/4 c. granulated sugar
+    \n<b>FOR THE CHEESECAKE</b> \n 7. 4 (8-oz.) blocks cream cheese, softened \n 8. 1 c. granulated sugar \n 9. 2 large eggs \n 10. 1 tsp. pure vanilla extract
+\n 11. 1/4 c. sour cream \n 12. 2 tbsp. all-purpose flour\n 13. 1/4 tsp. kosher salt \n 14. 1 c. blueberry puree \n <b>FOR TOPPING</b> \n 15. Whipped cream \n 16. Blueberries
+    \n<b>Method:</b>\n 1. Preheat oven to 325°. In a small food processor, blend blueberries until no large chunks remain. \n 2. In a small saucepan over medium heat, add blueberry puree, sugar, and lemon juice. Bring to a boil, then reduce heat and let simmer until slightly reduced, stirring occasionally, 10 minutes. Let cool to room temperature. \n 3. Make crust: In a large bowl, mix together graham cracker crumbs, melted butter, and sugar, until mixture resembles wet sand. Press into bottom and up sides of an 8" or 9" pan. \n 4. Make cheesecake: In a large bowl using a hand mixer (or in the bowl of a stand mixer), beat cream cheese and sugar until no lumps remain. Add eggs, one at a time, then stir in vanilla and sour cream. Add flour and salt and beat until just combined. Fold in blueberry puree. \n 5. Pour mixture over crust. Wrap bottom of pan in aluminum foil and place in a large roasting pan. Pour in enough boiling water to come halfway up the baking pan.
+\n 6. Bake until center of cheesecake only slightly jiggles, about 1 hour 30 minutes. Turn off heat, prop open oven door, and let cheesecake cool in oven, 1 hour.
+\n 7. Remove foil and refrigerate cheesecake until completely chilled, at least 5 hours and up to overnight.
+\n 8. When ready to serve, top cheesecake with whipped cream and blueberries.
+</string>
+
+    <string name="butter">
+        <b> Ingredients: \n Butterscotch Cake</b> \n 1. 2 1/2 cups (325g) all purpose flour \n 2. 3 cup butterscotch instant pudding mix \n 3. 1/2 tsp baking powder
+\n 4. 1/2 tsp salt \n 5. 3/4 cup (168g) unsalted butter, room temperature \n 6. 1 1/2 cups (337g) packed light brown sugar \n 7. 3 tbsp vegetable oil
+\n 8.1 tsp vanilla extract \n 9. 4 large eggs \n 10. 1 1/4 cups (300ml) milk \n<b> Butterscotch Frosting</b>\n 11. 1 1/4 cups (280g) unsalted butter, room temperature
+\n 12. 1 cup butterscotch chips, melted \n 13. 1/4 cups (719g) powdered sugar \n 14. 1/2 tsp salt \n 15. 1/2 cup (120ml) milk or cream
+        \n <b>Method:</b>\n 1. Prepare three 8 inch cake pans with parchment paper circles in the bottom and grease the sides. Preheat oven to 350°F (176°C).
+\n 2. Combine the flour, pudding mix, baking powder and salt in a medium sized bowl and set aside.
+\n 3. Add the butter, brown sugar and vegetable oil to a large mixer bowl and beat together until light in color and fluffy, about 3-4 minutes. Do not skimp on the creaming time.
+\n 4. Add the eggs and vanilla extract and mix until completely combined and smooth. Scrape down the sides of the bowl as needed to be sure all ingredients are well incorporated.
+\n 5. Add half of the dry ingredients to the batter and mix until mostly combined.
+\n 6. Add the milk and mix until well combined. The batter will look a little curdled, but that’s ok.
+\n 7. Add the remaining dry ingredients and mix until well combined and smooth. Scrape down the sides of the bowl as needed to be sure all ingredients are well incorporated. Do not over mix the batter.
+\n 8. Divide the batter evenly between the cakes pans and bake for 22-25 minutes, or until a toothpick comes out with a few crumbs.Remove the cakes from the oven and allow to cool for about 2-3 minutes, then remove to cooling racks to cool completely.
+        \n 10. To make the butterscotch frosting, add the butter to a large mixer bowl and beat until smooth.Slowly add the melted butterscotch chips and mix until well combined. Add about half of the powdered sugar, the salt and half of the milk or cream and mix until well combined.Add the remaining powdered sugar and mix until smooth.
+ Add the remaining milk or cream as needed to get the right consistency of frosting. Set frosting aside. \n 11. To put the cake together, use a large serrated knife to remove the domes from the top of the cakes so that they’re flat, if needed. The cakes should be pretty flat already. Place the first cake on a serving plate or a cardboard cake round.Spread about 1 cup of frosting into an even layer on top of the cake. Add the second layer of cake on top of the frosting.Press butterscotch chips into the sides of the cake immediately after frosting it.
+    </string>
+    <string name="dark_cookie">
+        <b>Ingredients:</b>\n 1. 1 2/3 cups (10-ounce package)
+\n 2. 1 cup all-purpose flour
+\n 3. 1/4 cup NESTLÉ® TOLL HOUSE® Baking Cocoa
+\n 4. 1 teaspoon baking soda\n 5. 1/2 teaspoon salt
+\n 6. 1/2 cup (1 stick) butter, softened
+\n 7. 1/2 cup packed light brown sugar\n 8. 1/4 cup granulated sugar
+\n 9. 1 large egg
+\n 10. 1 teaspoon vanilla extract
+\n<b>Method:</b> \n 1.  Preheat oven to 325° F. Line baking sheets with parchment paper or lightly grease.
+\n 2. Melt 2/3 cup morsels in microwave-safe bowl on MEDIUM-HIGH (70%) power for 30 seconds; STIR. Morsels may retain some of their original shape. Microwave at additional 10- to 15-second intervals, stirring just until morsels are melted. Set aside.
+\n 3. Sift flour, cocoa, baking soda and salt into medium bowl. Beat butter, brown sugar and granulated sugar in large mixer bowl until creamy. Add melted chocolate and mix well. Add egg and vanilla extract, mixing until well blended, about 1 minute. Add flour mixture, mixing just until blended. Stir in remaining 1 cup morsels. Drop dough by level 1/4-cup measure 3 inches apart onto prepared baking sheets.
+\n 4. Bake for 16 to 18 minutes or until wooden pick inserted in center comes out with moist crumbs and the tops have a cracked appearance. Cool on baking sheets for 5 minutes. Remove to wire rack to cool completely.
+    </string>
+
+<string name="coconut">
+    <b>Ingredients:</b>\n 1.3 cups powdered sugar
+\n 2. 3/4 cup  Baking Cocoa
+\n 3. 1/2 teaspoon salt
+\n 4. 3/4 cup Semi-Sweet Chocolate Morsels
+\n 5. 3/4 cup sweetened shredded coconut
+\n 6. 4 large egg whites, at room temperature
+\n<b>Method:</b>\n 1. Preheat oven to 325° F. Line baking sheets with parchment paper.
+\n 2. Whisk powdered sugar, cocoa and salt in large bowl. Stir in morsels and coconut. Add egg whites; mix well.
+\n 3. Drop by rounded tablespoon onto prepared baking sheets, spacing 2 inches apart.
+\n 4. Bake for 15 to 18 minutes or until tops are cracked. Cool completely on baking sheets on wire racks.
+</string>
+<string name="oat">
+    <b>Ingredients:</b>\n 1. 1 3/4 cups all-purpose flour
+\n 2. 1 teaspoon baking soda
+\n 3. 1/2 teaspoon salt (optional)
+\n 4. 1 1/4 cups packed brown sugar
+\n 5. 1 cup (2 sticks) butter or margarine, softened
+\n 6. 1/2 cup granulated sugar
+\n 7. 2 large eggs
+\n 8. 2 tablespoons milk
+\n 9. 2 teaspoons vanilla extract
+\n 10. 2 1/2 cups quick or old-fashioned oats
+\n 11. 2 cups (12-ounce package)Semi-Sweet Chocolate Morsels
+1 cup coarsely chopped nuts (optional)
+\n<b>Method:</b>\n 1. Preheat oven to 375° F.
+\n 2. Combine flour, baking soda and salt in small bowl. Beat brown sugar, butter and granulated sugar in large mixer bowl until creamy. Beat in eggs, milk and vanilla extract. Gradually beat in flour mixture. Stir in oats, morsels and nuts; mix well. Drop by rounded tablespoon onto ungreased baking sheets.
+\n 3. Bake for 9 to 10 minutes for chewy cookies or 12 to 13 minutes for crispy cookies. Cool on baking sheets for 1 minute; remove to wire racks to cool completely.
+</string>
+
+    <string name="ginger">
+        <b>Ingredients:</b>\n 1. 100g salted butter , cubed
+\n 2. 75g light brown soft sugar
+\n 3. 1 tbsp grated fresh ginger
+\n 4. 100g golden syrup
+\n 5. 250g self-raising flour
+\n 6. 1½ tbsp ground ginger
+\n 7. 1 tsp bicarbonate of soda
+\n 8. 1 small egg yolk, beaten
+  \n<b>Method:</b>\n 1. Heat the oven to 190C/170C fan/gas 5. Line two large baking trays with baking parchment. In a saucepan over a low heat, melt the butter, sugar, fresh ginger and golden syrup and leave to cool.
+        \n 2. Mix the flour, ground ginger and bicarbonate of soda together in a bowl with a wooden spoon. Gradually stir in the cooled sugar mixture and the egg yolk and knead briefly to make a dough.
+        \n 3. Roll the dough into 20g balls and put on the prepared baking trays with 3cm between each to allow for spreading. Bake for 8-10 mins until golden brown. Leave to cool on the trays for a min, then transfer to a cooling rack to cool completely.
+    </string>
+
+    <string name="jam"><b>
+        Ingredients:</b>\n 1. 200g self-raising flour
+\n 2. 100g caster sugar
+\n 3. 100g butter
+\n 4. 1 egg, lightly beaten
+\n 5. 4 tbsp strawberry jam
+        \n <b>Method:</b>\n 1. Heat oven to 190C/fan 170C/gas 5. Rub the flour, sugar and butter together until the mixture resembles breadcrumbs. Alternatively, you can do this in the food processor. Add enough egg to bring the mixture together to form a stiff dough.
+        \n 2. Flour your hands and shape the dough into a tube, about 5cm in diameter. Cut into 2cm-thick slices and place on a large baking sheet. Space them out as the mixture will spread when baking.
+        \n 3. Make a small indentation in the middle of each slice with the end of a wooden spoon, and drop a tsp of jam in the centre. Bake for 10-15 mins until slightly risen and just golden. Cool on a wire rack.
+    </string>
+<string name="pea">
+    <b>Ingredients:</b>\n 1. 200g peanut butter (crunchy or smooth is fine)
+\n 2. 175g golden caster sugar
+\n 3. ¼ tsp fine table salt
+\n 4. 1 large egg
+    \n<b>Method:</b>\n 1. Heat oven to 180C/160C fan/gas 4 and line 2 large baking trays with baking parchment.
+    \n 2. Measure the peanut butter and sugar into a bowl. Add ¼ tsp fine table salt and mix well with a wooden spoon. Add the egg and mix again until the mixture forms a dough.
+    \n 3. Break off cherry tomato sized chunks of dough and place, well spaced apart, on the trays. Press the cookies down with the back of a fork to squash them a little. The cookies can now be frozen for 2 months, cook from frozen adding an extra min or 2 to the cooking time.
+    \n 4. Bake for 12 mins, until golden around the edges and paler in the centre. Cool on the trays for 10 mins, then transfer to a wire rack and cool completely. Store in a cookie jar for up to 3 days.
+
+
+</string>
+
+</resources>
