@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Cake"
+    android:id="@+id/Cakes">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:id="@+id/toolbar"
+        android:title="CAKES"
+        android:titleTextColor="#fff"
+        android:background="#6B0505"
+        tools:targetApi="lollipop" />
+
+
+    <ImageView
+        android:id="@+id/cakep"
+        android:layout_below="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/cake"
+        />
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/r1"
+    android:layout_below="@+id/cakep">
+
+    <Button
+        android:id="@+id/sp1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff"
+        android:textColor="#000"
+        android:text="CHOCO MOCHA"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/choco_mocha"
+        android:background="#C5BDBD"
+        android:textColor="#000"
+        android:id="@+id/tv1"
+        android:layout_below="@+id/sp1"
+        android:visibility="gone"
+        android:drawableTop="@drawable/choco"/>
+</RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/r2"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/r1">
+
+        <Button
+            android:id="@+id/sp2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#fff"
+            android:textColor="#000"
+            android:text="tutti frutti "/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/tutti_frutti"
+            android:id="@+id/tv2"
+            android:background="#C5BDBD"
+            android:textColor="#000"
+            android:layout_below="@+id/sp2"
+            android:visibility="gone"
+            android:drawableTop="@drawable/tutti"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/r3"
+    android:layout_marginTop="5dp"
+    android:layout_below="@+id/r2">
+
+    <Button
+        android:id="@+id/sp3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff"
+        android:textColor="#000"
+        android:text="RED VELVET "/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/red_velvet"
+        android:id="@+id/tv3"
+        android:background="#C5BDBD"
+        android:textColor="#000"
+        android:layout_below="@+id/sp3"
+        android:visibility="gone"
+        android:drawableTop="@drawable/red"/>
+</RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/r4"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/r3">
+
+        <Button
+            android:id="@+id/sp4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#fff"
+            android:textColor="#000"
+            android:text="PINEAPPLE "/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/pineapple"
+            android:id="@+id/tv4"
+            android:background="#C5BDBD"
+            android:textColor="#000"
+            android:layout_below="@+id/sp4"
+            android:visibility="gone"
+            android:drawableTop="@drawable/pineapple"/>
+    </RelativeLayout>
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/r5"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/r4">
+
+        <Button
+            android:id="@+id/sp5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#fff"
+            android:textColor="#000"
+            android:text="BUTTERSCOTH"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/butter"
+            android:id="@+id/tv5"
+            android:background="#C5BDBD"
+            android:textColor="#000"
+            android:layout_below="@+id/sp5"
+            android:visibility="gone"
+            android:drawableTop="@drawable/butterscotch"
+            />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/r6"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/r5">
+
+        <Button
+            android:id="@+id/sp6"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#fff"
+            android:textColor="#000"
+            android:text="BLUEBERRY CHEESE CAKE"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/blueberry"
+            android:id="@+id/tv6"
+            android:background="#C5BDBD"
+            android:textColor="#000"
+            android:layout_below="@+id/sp6"
+            android:visibility="gone"
+            android:drawableTop="@drawable/blue"
+            />
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>
+
+</ScrollView>
